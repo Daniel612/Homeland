@@ -24,11 +24,11 @@ public class PopButton: UIButton {
         fatalError("init(coder:) has not been implemented")
     }
     
-    func didPressdClose(_sender: UIButton) {
+    @objc func didPressdClose(_sender: UIButton) {
         self.delegate?.pressedCloseButton(self)
     }
     
-    func didPressedSpeech(_sender: UIButton) {
+    @objc func didPressedSpeech(_sender: UIButton) {
         self.delegate?.pressedSpeechButton(self)
     }
 }
