@@ -10,7 +10,7 @@ A  3D earth-moon system for WWDC17 Scholarship Application (Accepted)
 
 This playground uses **SceneKit** to create a Earth Moon system. It is our beautiful homeland, as shown in the following figure. The "Mother Earth" refreshes my memory of coding first "Hello World". The scene will start with a cool opening animation. 
 
-> Because the playground built in March, 2017, it maybe not run well in the lastest Xcode. It is recommended run in the Xcode 8.2.1 to get the best experience.
+> Because the playground was built in March, 2017, it maybe not run well in the lastest Xcode. It is recommended run in the Xcode 8.2.1 to get the best experience.
 
 ## Installation
 
